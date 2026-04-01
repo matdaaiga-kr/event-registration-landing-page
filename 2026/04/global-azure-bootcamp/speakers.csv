@@ -1,0 +1,8 @@
+time,profile,name,organisation,session-title,session-description
+13:10 - 13:40,images/mina-jin.png,진미나,Microsoft MVP,"Azure로 쉽게 만드는 거짓말 탐지기 Fact-Check 에이전트","Azure에서 초보자도 쉽게 만들 수 있는, 근거를 찾아서 사실 여부를 검증하는 Fact-Check Agent입니다. 초보자에게 복잡한 멀티 에이전트보다, Search가 붙은 단일 Fact-Check Agent부터 안내합니다."
+13:50 - 14:20,images/changjae-woo.jpg,우창재,S.Pin테크놀로지,"ML이 진단하고 RAG가 근거를 검색하는 AI 에이전트","기존 챗봇은 데이터 기반의 판단력이 부족하고, ML 모델은 구체적인 대응 전략은 제시하지 못하는데, Microsoft Foundry를 활용해서 ML의 예측 지능과 RAG의 지식 탐색 능력을 결합한 지능형 에이전트를 만들어보는 세션입니다."
+14:30 - 15:00,images/jonghwa-lee.jpg,이종화,영남대학교,"데이터 분석 스택을 하나로 묶다: Microsoft Fabric",""
+15:10 - 15:40,images/jisun-kim.jpg,김지선,Databricks,"MS Azure on Databricks와 AI 코딩 에이전트의 어썸 콜라보","Azure 기반으로 Databricks의 신기능인 Genie Code와 AI Dev Kit을 활용하는 방안과 사례를 공유합니다."
+15:50 - 16:20,images/yujin-tak.png,탁유진,경북대학교,"바이브코딩 그 다음 - 내 서비스, 사용자가 원하는 대로 쓰고 있을까?","바이브코딩으로 누구나 앱을 만들 수 있지만, 정작 사용자가 원하는 대로 앱을 쓰고 있는지에 대한 고민이 있습니다. 이 세션에서는 Microsoft Clarify의 다양한 기능을 소개하며 기획/마케팅 전문가들이 실무에 바로 적용할 수 있는 내용을 준비했습니다."
+16:30 - 17:00,images/siyoung-lee.jpg,이시영,코멘토,"MAF와 Copilot SDK 조합의 멀티 에이전트로  SNS 홍보글 작성 5분컷!","매번 SNS 홍보글 작성에 애먹는 마케터들을 위해, Microsoft Foundry와 Copilot SDK를 활용하여 멀티 에이전트를 구축하는 방법을 소개합니다. 이 세션에서는 실제로 5분 만에 홍보글을 작성하는 데모도 진행할 예정입니다."
+17:10 - 17:40,images/justin-yoo.png,유저스틴,Microsoft,"VS Code + AI Toolkit + MS Foundry 조합으로 30분만에 에이전트 만들고 배포하기","Microsoft Foundry와 VS Code, AI Toolkit을 활용하여 30분 만에 에이전트를 만들고 배포하는 방법을 소개합니다. 이 세션에서는 실제로 간단한 에이전트를 구축하는 데모도 진행할 예정입니다."
