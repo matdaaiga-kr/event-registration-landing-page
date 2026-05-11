@@ -2,6 +2,8 @@
 
 ---
 
+![Hero image](https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/build-localhost-square.png)
+
 > **Microsoft 공식 리캡 행사**
 
 **글로벌 개발자 컨퍼런스의 최신 흐름을 대구에서 만나보세요**
