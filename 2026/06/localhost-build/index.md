@@ -5,12 +5,13 @@
 ![Hero image](https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/build-localhost-square.png)
 
 > **Microsoft 공식 리캡 행사**
-
 **글로벌 개발자 컨퍼런스의 최신 흐름을 대구에서 만나보세요**
 
 * 📅 2026년 6월 24일 (수)
 * 🕐 17:00 - 21:00
 * 📍 동대구역 DASH(대구스케일업허브) 5층 대회의실
+
+참가신청링크: https://aifactory.space/task/9282
 
 ---
 
@@ -32,7 +33,7 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 ## 📚 세션 소개
 
-*현재 연사자 및 세션을 구성 중입니다*
+*연사자 라인업이 추가되었습니다. 세션 상세 주제는 Microsoft Build 오픈 후 공개할 예정입니다.*
 
 ### 🎙️ 주요 세션 주제 (예정)
 
@@ -59,7 +60,12 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 ## 👥 발표자 소개
 
-🎤 발표자 및 패널 정보는 세션 확정 후 업데이트될 예정입니다.
+*연사자 라인업*
+
+* 이보라 - MVP (Most Valuable Professionals) - Microsoft 기술 전문가
+* 유저스틴 - Principal Developer Advocate @ Microsoft
+* 김근희 - Microsoft Student Ambassadors (senior)
+* 황지현 - Microsoft Student Ambassadors (senior)
 
 ---
 
@@ -74,24 +80,12 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 ## 📢 행사 안내
 
-<table>
-<tr>
-    <td>📍 <strong>장소</strong></td>
-    <td>대구광역시 동구 동대구로 465, DASH(대구스케일업허브) 5층</td>
-</tr>
-<tr>
-    <td>👥 <strong>대상</strong></td>
-    <td>학생, 개발자, AI 및 클라우드 기술에 관심 있는 누구나 (선착순 100명)</td>
-</tr>
-<tr>
-    <td>🚗 <strong>주차 안내</strong></td>
-    <td>주차 지원이 불가하오니 가급적 대중교통 이용을 권장합니다.</td>
-</tr>
-<tr>
-    <td>📧 <strong>문의</strong></td>
-    <td>matdaaiga@outlook.com</td>
-</tr>
-</table>
+|  |  |
+| --- | --- |
+| 📍 **장소** | 대구광역시 동구 동대구로 465, DASH(대구스케일업허브) 5층 |
+| 👥 **대상** | 학생, 개발자, AI 및 클라우드 기술에 관심 있는 누구나 (선착순 100명) |
+| 🚗 **주차 안내** | 주차 지원이 불가하오니 가급적 대중교통 이용을 권장합니다. |
+| 📧 **문의** | matdaaiga@outlook.com |
 
 ---
 
@@ -104,7 +98,6 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 - 페이지 상단에 있는 [참가하기] 버튼을 클릭하시면 됩니다.
 - 로그인 상태에서만 신청 가능 (자동 로그아웃 주의)
 - 정원 초과 시 조기 마감될 수 있습니다.
-
 ### 📢 참가자 안내사항
 
 * 본 행사는 무료로 진행되며, 노쇼 방지를 위해 참석이 어려우신 경우 사전에 꼭 취소 부탁드립니다.
