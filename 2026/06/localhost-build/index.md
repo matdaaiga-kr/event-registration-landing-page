@@ -19,11 +19,11 @@
 
 ### 🤖 최신 AI 에이전트 기술이 궁금한 분
 
-샌프란시스코에서 열린 Build 컨퍼런스의 핵심인 Azure OpenAI, AI Agent, Copilot의 최신 업데이트를 리캡합니다.
+샌프란시스코에서 열린 Build 컨퍼런스의 핵심인 Microsoft Foundry, AI Agent, GitHub Copilot의 최신 업데이트를 요약/정리합니다.
 
 ### 💻 실무 개발 도구의 미래를 보고 싶은 분
 
-Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새로운 생태계를 탐구합니다.
+Cloud, Azure, GitHub Copilot, Agentic Developer Tools 등 개발 효율을 극대화할 Microsoft의 새로운 생태계를 탐구합니다.
 
 ### 🤝 로컬 기술 커뮤니티 네트워킹
 
@@ -33,7 +33,7 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 ## 📚 세션 소개
 
-*연사자 라인업이 추가되었습니다. 세션 상세 주제는 Microsoft Build 오픈 후 공개할 예정입니다.*
+*세션 상세 주제는 Microsoft Build 종료 후 공개할 예정입니다.*
 
 ### 🎙️ 주요 세션 주제 (예정)
 
@@ -94,9 +94,9 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 ## 후원
 
 <table>
-<tr><td><img src="./images/sponsor-microsoft.png" width="400" alt="Sponsor - Microsoft"></td></tr>
-<tr><td><img src="./images/sponsor-oceanlightai.png" width="400" alt="Sponsor - Oceanlight AI"></td></tr>
-<tr><td><img src="./images/sponsor-aifactory.webp" width="400" alt="Sponsor - AI Factory"></td></tr>
+<tr><td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/sponsor-microsoft.png" width="400" alt="Sponsor - Microsoft"></td></tr>
+<tr><td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/sponsor-oceanlightai.png" width="400" alt="Sponsor - Oceanlight AI"></td></tr>
+<tr><td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/sponsor-aifactory.webp" width="400" alt="Sponsor - AI Factory"></td></tr>
 </table>
 
 ---
@@ -110,6 +110,7 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 - 페이지 상단에 있는 [참가하기] 버튼을 클릭하시면 됩니다.
 - 로그인 상태에서만 신청 가능 (자동 로그아웃 주의)
 - 정원 초과 시 조기 마감될 수 있습니다.
+
 ### 📢 참가자 안내사항
 
 * 본 행사는 무료로 진행되며, 노쇼 방지를 위해 참석이 어려우신 경우 사전에 꼭 취소 부탁드립니다.
