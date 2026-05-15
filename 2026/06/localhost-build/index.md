@@ -2,7 +2,7 @@
 
 ---
 
-![Hero image](https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/build-localhost-square.png)
+![Hero image](https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/hero-build-localhost-square.png)
 
 > **Microsoft 공식 리캡 행사**
 **글로벌 개발자 컨퍼런스의 최신 흐름을 대구에서 만나보세요**
@@ -41,8 +41,6 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 * **Azure & Cloud Innovation**: 개발자를 위한 클라우드 신기술
 * **Copilot Ecosystem**: 우리 업무에 녹아드는 부조종사 활용법
 
-
-
 ---
 
 ## ⏰ 시간표
@@ -62,12 +60,12 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 <table>
 <tr style="text-align:center;">
-<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/geunheekim.jpg" width="150" alt="김근희"><br>김근희<br>Microsoft Student Ambassadors<br>Senior</td>
-<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/justinyoo.png" width="150" alt="유저스틴"><br>유저스틴<br>수석 디벨로퍼 아드보캇<br>Microsoft</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/speaker-geunheekim.jpg" width="200" alt="김근희"><br>김근희<br>Microsoft Student Ambassadors<br>Senior</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/speaker-justinyoo.png" width="200" alt="유저스틴"><br>유저스틴<br>Principal Developer Advocate<br>Microsoft</td>
 </tr>
 <tr style="text-align:center;">
-<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/boralee.jpg" width="150" alt="이보라"><br>이보라<br>Microsoft MVP<br>모던웹연구소</td>
-<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/jihyeonhwang.jpg" width="150" alt="황지현"><br>황지현<br>Microsoft Student Ambassadors<br>Senior</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/speaker-boralee.jpg" width="200" alt="이보라"><br>이보라<br>Microsoft MVP<br>모던웹연구소</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/speaker-jihyeonhwang.jpg" width="200" alt="황지현"><br>황지현<br>Microsoft Student Ambassadors<br>Senior</td>
 </tr>
 </table>
 
@@ -90,6 +88,16 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 | 👥 **대상** | 학생, 개발자, AI 및 클라우드 기술에 관심 있는 누구나 (선착순 100명) |
 | 🚗 **주차 안내** | 주차 지원이 불가하오니 가급적 대중교통 이용을 권장합니다. |
 | 📧 **문의** | matdaaiga@outlook.com |
+
+---
+
+## 후원
+
+<table>
+<tr><td><img src="./images/sponsor-microsoft.png" width="400" alt="Sponsor - Microsoft"></td></tr>
+<tr><td><img src="./images/sponsor-oceanlightai.png" width="400" alt="Sponsor - Oceanlight AI"></td></tr>
+<tr><td><img src="./images/sponsor-aifactory.webp" width="400" alt="Sponsor - AI Factory"></td></tr>
+</table>
 
 ---
 
