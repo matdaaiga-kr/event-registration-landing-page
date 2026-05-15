@@ -60,12 +60,16 @@ Cloud, Azure, Developer Tools 등 개발 효율을 극대화할 Microsoft의 새
 
 ## 👥 발표자 소개
 
-*연사자 라인업*
-
-* 이보라 - MVP (Most Valuable Professionals) - Microsoft 기술 전문가
-* 유저스틴 - Principal Developer Advocate @ Microsoft
-* 김근희 - Microsoft Student Ambassadors (senior)
-* 황지현 - Microsoft Student Ambassadors (senior)
+<table>
+<tr style="text-align:center;">
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/geunheekim.jpg" width="150" alt="김근희"><br>김근희<br>Microsoft Student Ambassadors<br>Senior</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/justinyoo.png" width="150" alt="유저스틴"><br>유저스틴<br>수석 디벨로퍼 아드보캇<br>Microsoft</td>
+</tr>
+<tr style="text-align:center;">
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/boralee.jpg" width="150" alt="이보라"><br>이보라<br>Microsoft MVP<br>모던웹연구소</td>
+<td><img src="https://matdaaiga.kr/event-registration-landing-page/2026/06/localhost-build/images/jihyeonhwang.jpg" width="150" alt="황지현"><br>황지현<br>Microsoft Student Ambassadors<br>Senior</td>
+</tr>
+</table>
 
 ---
 
