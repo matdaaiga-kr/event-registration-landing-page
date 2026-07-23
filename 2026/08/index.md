@@ -4,8 +4,8 @@
 
 - 일정: 2026년 8월 22일 (토)
 - 시간: 09:00 - 18:00
-- 장소: 대구권 행사장 (최종 장소 추후 공지)
-- 팀 신청 시 팀원 모두 개인적으로 티켓을 각각 구매하시면 됩니다. (행사 당일 운영진이 팀명 수합 예정)
+- 장소: 경북대학교 IT대학 5호관 지하 1층
+- 팀 신청 시 팀원 모두 개인적으로 티켓을 각각 구매하시면 됩니다
 
 ## 이런 분들을 위한 행사입니다
 
@@ -19,7 +19,7 @@
 
 ### 실전 완주 경험이 필요한 분
 
-하루 동안 기획부터 구현, 발표까지 경험할 수 있도록 운영합니다.
+하루 동안 기획부터 구현과 배포까지 경험할 수 있도록 운영합니다.
 
 ## 시간표
 
@@ -36,11 +36,13 @@
 - 대상: AI에 관심 있는 누구나 (비전공자/전공자 모두 가능)
 - 참가 형태: 개인 또는 최대 4인 팀
 - 참가비: 얼리버드 1만원(30명), 일반 2만원(70명)
-- 문의: matdaaiga@outlook.com
+- 문의: [matdaaiga.kr/matdathon/community](https://matdaaiga.kr/matdathon/community)
+- 준비물: 개인 노트북, Azure 구독 (무료구독 신청: [https://aka.ms/azure/free](https://aka.ms/azure/free))
 
 ## 혜택
 
-- 참가팀 대상 GitHub Copilot 라이선스, Azure 크레딧 제공
+- 행사 당일 체크인을 완료한 참가자에게 GitHub Copilot Max 한 달 이용권 제공
+- **전문 멘토링 세션 제공**: Microsoft Certified Trainer, Microsoft Student Ambassador 및 Microsoft Developer Advocate
 - 참가자 인증서(PDF) 발급
 
 참가신청링크: https://bit.ly/matdaathon-2026
