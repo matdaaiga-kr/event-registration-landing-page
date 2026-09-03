@@ -81,6 +81,8 @@ Senior · Microsoft Student Ambassadors
 
 터미널에서 Copilot을 활용해 일상적인 개발 작업을 더 빠르고 자연스럽게 수행하는 방법을 살펴봅니다.
 
+Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자 커뮤니티 ‘맞다AI가’를 운영하고 있습니다. AI 기술을 직접 활용해보는 것뿐만 아니라, 더 많은 사람들이 새로운 기술을 쉽게 접하고 실제로 써볼 수 있는 기회를 만드는 데 관심이 많습니다. 다양한 밋업과 워크샵을 기획해온 경험을 바탕으로, 참가자분들이 GitHub Copilot을 재미있고 실용적으로 경험할 수 있도록 함께하겠습니다.
+
 [GitHub](https://github.com/g1nya2) · [LinkedIn](https://www.linkedin.com/in/geunhee-kim1227)
 
 ### 트랙 B · GitHub Copilot app
