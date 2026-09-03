@@ -8,7 +8,7 @@
 
 # GitHub Copilot Dev Days 포항
 
-![GitHub Copilot Dev Days 포항](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/hero.png)
+![GitHub Copilot Dev Days 포항](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/hero.png?v=2)
 
 **두 개의 트랙에서 GitHub Copilot을 깊이 있게 살펴보는 실전 워크샵**
 
@@ -36,7 +36,7 @@ GitHub Copilot app과 CLI 사용법을 기초부터 차근차근 익히고, 실�
 
 ## 🎤 키노트
 
-![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-justin-yoo-thumbnail.png)
+![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-justin-yoo-thumbnail.png?v=2)
 
 ### 유저스틴
 
@@ -74,7 +74,7 @@ GitHub Copilot CLI와 app 워크샵이 두 개의 트랙에서 동시에 진행�
 
 ### 트랙 A · GitHub Copilot CLI
 
-![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-geunhee-kim-thumbnail.png)
+![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-geunhee-kim-thumbnail.png?v=2)
 
 **김근희**  
 Senior · Microsoft Student Ambassadors
@@ -87,7 +87,7 @@ Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자
 
 ### 트랙 B · GitHub Copilot app
 
-![황지현](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-jihyeon-hwang-thumbnail.png)
+![황지현](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/speaker-jihyeon-hwang-thumbnail.png?v=2)
 
 **황지현**  
 Senior · Microsoft Student Ambassadors

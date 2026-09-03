@@ -8,7 +8,7 @@
 
 # GitHub Copilot Dev Days 부산
 
-![GitHub Copilot Dev Days 부산](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/hero.png)
+![GitHub Copilot Dev Days 부산](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/hero.png?v=2)
 
 **GitHub Copilot app과 GitHub Copilot CLI를 깊이 있게 살펴보는 실전 워크샵**
 
@@ -36,7 +36,7 @@ GitHub Copilot app과 CLI 사용법을 기초부터 차근차근 익히고, 실�
 
 ## 🎤 키노트
 
-![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-justin-yoo-thumbnail.png)
+![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-justin-yoo-thumbnail.png?v=2)
 
 ### 유저스틴
 
@@ -75,7 +75,7 @@ GitHub Copilot을 전용 앱 환경과 터미널 환경에서 실습합니다.
 
 ### GitHub Copilot app
 
-![황지현](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-jihyeon-hwang-thumbnail.png)
+![황지현](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-jihyeon-hwang-thumbnail.png?v=2)
 
 **황지현**  
 Senior · Microsoft Student Ambassadors
@@ -88,7 +88,7 @@ Senior · Microsoft Student Ambassadors
 
 ### GitHub Copilot CLI
 
-![윤금재](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-keumjae-yoon-thumbnail.png)
+![윤금재](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/speaker-keumjae-yoon-thumbnail.png?v=2)
 
 **윤금재**  
 대표 · Teamus

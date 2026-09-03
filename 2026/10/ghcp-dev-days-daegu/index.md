@@ -8,7 +8,7 @@
 
 # GitHub Copilot Dev Days 대구
 
-![GitHub Copilot Dev Days 대구](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/hero.png)
+![GitHub Copilot Dev Days 대구](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/hero.png?v=2)
 
 **GitHub Copilot app과 GitHub Copilot CLI를 깊이 있게 살펴보는 실전 워크샵**
 
@@ -36,7 +36,7 @@ GitHub Copilot app과 CLI 사용법을 기초부터 차근차근 익히고, 실�
 
 ## 🎤 키노트
 
-![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-justin-yoo-thumbnail.png)
+![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-justin-yoo-thumbnail.png?v=2)
 
 ### 유저스틴
 
@@ -75,7 +75,7 @@ GitHub Copilot을 전용 앱 환경과 터미널 환경에서 실습합니다.
 
 ### GitHub Copilot app
 
-![이시영](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-siyoung-lee-thumbnail.png)
+![이시영](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-siyoung-lee-thumbnail.png?v=2)
 
 **이시영**  
 Facilitator · LG CNS
@@ -88,7 +88,7 @@ LG CNS Innovation Studio에서 컨설팅 업무를 하고 있는 Microsoft Certi
 
 ### GitHub Copilot CLI
 
-![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-geunhee-kim-thumbnail.png)
+![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-geunhee-kim-thumbnail.png?v=2)
 
 **김근희**  
 Senior · Microsoft Student Ambassadors
