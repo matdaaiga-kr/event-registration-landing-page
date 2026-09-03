@@ -4,6 +4,8 @@
 
 ## [👉 참가 신청하기 👈](https://bit.ly/matdaaiga-2026-10-daegu)
 
+---
+
 # GitHub Copilot Dev Days 대구
 
 ![GitHub Copilot Dev Days 대구](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/hero.png)
@@ -13,6 +15,8 @@
 - **일정:** 2026년 10월 17일 (토)
 - **시간:** 12:00 - 18:00
 - **장소:** 대구 중구 동성로 일대 (상세 장소 추후 공지)
+
+---
 
 ## 🎯 이런 분들을 위한 행사입니다
 
@@ -28,6 +32,8 @@ GitHub Copilot app과 CLI 사용법을 기초부터 차근차근 익히고, 실�
 
 대구 지역 개발자, 학생들과 함께 경험을 나누고 네트워킹하는 시간을 가집니다.
 
+---
+
 ## 🎤 키노트
 
 ![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-justin-yoo-thumbnail.png)
@@ -40,11 +46,15 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 
 [GitHub](https://github.com/justinyoo) · [LinkedIn](https://www.linkedin.com/in/justinyoo)
 
+---
+
 ## 🎁 참가자에게 드리는 깜짝 선물
 
 > 행사에 함께해 주시는 분들을 위해 작은 즐거움을 준비하고 있습니다.
 >
 > 자세한 내용은 행사 당일 현장에서 공개됩니다.
+
+---
 
 ## ⏰ 시간표
 
@@ -57,13 +67,13 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 | 15:30 - 17:30 | GitHub Copilot CLI | 김근희 |
 | 17:30 - 18:00 | 클로징 | - |
 
+---
+
 ## 📚 세션 소개
 
 GitHub Copilot을 전용 앱 환경과 터미널 환경에서 실습합니다.
 
 ### GitHub Copilot app
-
-**13:30 - 15:30**
 
 ![이시영](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-siyoung-lee-thumbnail.png)
 
@@ -76,8 +86,6 @@ Facilitator · LG CNS
 
 ### GitHub Copilot CLI
 
-**15:30 - 17:30**
-
 ![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-geunhee-kim-thumbnail.png)
 
 **김근희**  
@@ -87,12 +95,16 @@ Senior · Microsoft Student Ambassadors
 
 [GitHub](https://github.com/g1nya2) · [LinkedIn](https://www.linkedin.com/in/geunhee-kim1227)
 
+---
+
 ## 📢 행사 안내
 
 - **장소:** 대구 중구 동성로 일대 (상세 장소 추후 공지)
 - **대상:** 학생, 개발자, AI 코딩에 관심 있는 누구나
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
+
+---
 
 ## 지금 바로 신청하세요
 
@@ -101,6 +113,8 @@ Senior · Microsoft Student Ambassadors
 ## [👉 참가 신청하기 👈](https://bit.ly/matdaaiga-2026-10-daegu)
 
 > 이 행사에서는 AI 크레딧을 사용합니다. 워크샵은 Copilot Free로도 완료할 수 있지만 많은 크레딧을 사용할 수 있으니 행사 참석 전 사용량을 적절히 관리해 주세요.
+
+---
 
 ## Dev Days 로드쇼
 
