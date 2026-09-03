@@ -1,0 +1,4 @@
+track,timeline,profile,name,title,organisation,bio,github,linkedin
+K,12:30-13:00,images/speaker-justin-yoo.png,유저스틴,수석 디벨로퍼 아드보캇,Microsoft/GitHub,"Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 개발자 커뮤니티와 다양한 채널을 통해 소통하고 있습니다. 자나깨나 개발자 생산성 향상에 Azure, .NET, GitHub Copilot 등이 어떻게 도움이 될 수 있을까 고민합니다.",https://github.com/justinyoo,https://www.linkedin.com/in/justinyoo
+A,13:30-15:30,images/speaker-jihyeon-hwang.jpg,황지현,Senior,Microsoft Student Ambassadors,"다양한 기술 커뮤니티를 이끌며, AI 에이전트와 워크플로우 자동화를 통해 개발 생산성을 높이는 방법에 관심이 많습니다. 배우고 경험한 것을 사람들과 나누며 함께 성장하는 것을 중요하게 생각하고 있습니다. 이번 워크샵에서도 GitHub Copilot app을 활용한 즐거운 AI 코딩 경험을 공유하고 싶습니다.",https://github.com/zihyeon08,https://www.linkedin.com/in/jihyeon081
+C,15:30-17:30,images/speaker-keumjae-yoon.jpg,윤금재,대표,Teamus,"IT 교육기업 Teamus 대표 윤금재입니다. 다양한 사람들이 기술을 더 쉽게 접할 수 있도록 여러 커뮤니티에서 활동중입니다. 혼자 성장하는 것이 아닌 모두가 함께 성장하고 발전하는 것을 지향합니다.",https://github.com/YoonKeumJae,https://www.linkedin.com/in/keumjae-yoon
