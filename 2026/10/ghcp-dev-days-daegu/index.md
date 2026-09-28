@@ -110,6 +110,18 @@ Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자
 
 ---
 
+## 🤝 후원사
+
+GitHub Copilot Dev Days와 함께해 주시는 후원사입니다.
+
+[![OpenUP 후원사 로고](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/luma-sponsor-openup-thumbnail.png)](https://www.oss.kr/)
+
+[![인프라지스틱스 후원사 로고](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/luma-sponsor-infragistics-thumbnail.png)](https://www.infragistics.co.kr/)
+
+[![Microsoft 후원사 로고](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/luma-sponsor-microsoft-thumbnail.png)](https://www.microsoft.com/ko-kr)
+
+---
+
 ## 지금 바로 신청하세요
 
 선착순 등록입니다.
