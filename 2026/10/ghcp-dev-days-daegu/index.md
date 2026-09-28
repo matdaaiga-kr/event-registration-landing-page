@@ -14,7 +14,7 @@
 
 - **일정:** 2026년 10월 17일 (토)
 - **시간:** 12:00 - 18:00
-- **장소:** 대구 중구 동성로 일대 (상세 장소 추후 공지)
+- **장소:** 마이크로웨이브 대구 본점 (대구역 맞은편)
 
 ---
 
@@ -103,10 +103,12 @@ Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자
 
 ## 📢 행사 안내
 
-- **장소:** 대구 중구 동성로 일대 (상세 장소 추후 공지)
+- **장소:** 마이크로웨이브 대구 본점 (대구역 맞은편)
 - **대상:** 학생, 개발자, AI 코딩에 관심 있는 누구나
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
+
+![대구역 맞은편 마이크로웨이브 대구 본점 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/map.jpg)
 
 ---
 
