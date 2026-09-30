@@ -106,7 +106,9 @@ Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
 
-![대구역 맞은편 마이크로웨이브 대구 본점 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/map.jpg)
+[![대구역 맞은편 마이크로웨이브 대구 본점 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/map.jpg)](https://naver.me/xmxeI0Ju)
+
+\*사진을 클릭하면 네이버 지도로 이동합니다
 
 ---
 
