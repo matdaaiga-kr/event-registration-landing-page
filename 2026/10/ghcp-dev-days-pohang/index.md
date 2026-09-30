@@ -107,6 +107,8 @@ Senior · Microsoft Student Ambassadors
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
 
+![포항공과대학교 포스코국제관 1층 대회의실 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-pohang/images/map.png)
+
 ---
 
 ## 지금 바로 신청하세요
