@@ -108,6 +108,8 @@ IT 교육기업 Teamus 대표 윤금재입니다. 다양한 사람들이 기술�
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
 
+![부산문화콘텐츠 콤플렉스 5층 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-busan/images/map.png)
+
 ---
 
 ## 지금 바로 신청하세요
