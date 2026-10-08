@@ -14,7 +14,7 @@
 
 - **일정:** 2026년 10월 17일 (토)
 - **시간:** 12:00 - 18:00
-- **장소:** 마이크로웨이브 대구 본점 (대구역 맞은편)
+- **장소:** 디노스페이스 (대구광역시 수성구 만촌동 414-2번지(구세빌딩), 3층)
 
 ---
 
@@ -101,12 +101,12 @@ Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자
 
 ## 📢 행사 안내
 
-- **장소:** 마이크로웨이브 대구 본점 (대구역 맞은편)
+- **장소:** 디노스페이스 (대구광역시 수성구 만촌동 414-2번지(구세빌딩), 3층)
 - **대상:** 학생, 개발자, AI 코딩에 관심 있는 누구나
 - **주차:** 별도 주차 지원 없음 · 대중교통 이용 권장
 - **문의:** [matdaaiga@outlook.com](mailto:matdaaiga@outlook.com)
 
-[![대구역 맞은편 마이크로웨이브 대구 본점 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/map.jpg)](https://naver.me/xmxeI0Ju)
+[![디노스페이스 약도](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/map.png)](https://naver.me/FPn5NsiA)
 
 \*사진을 클릭하면 네이버 지도로 이동합니다
 
