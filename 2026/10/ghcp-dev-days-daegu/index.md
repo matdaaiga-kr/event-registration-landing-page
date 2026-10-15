@@ -62,7 +62,7 @@ Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 �
 - **12:30 - 13:00** · 키노트 (발표자: 유저스틴)
 - **13:00 - 13:30** · 실습 환경 설정
 - **13:30 - 15:30** · GitHub Copilot app (발표자: 이시영)
-- **15:30 - 17:30** · GitHub Copilot CLI (발표자: 김근희)
+- **15:30 - 17:30** · GitHub Copilot CLI (발표자: 유저스틴)
 - **17:30 - 18:00** · 클로징
 
 ---
@@ -86,16 +86,16 @@ LG CNS Innovation Studio에서 컨설팅 업무를 하고 있는 Microsoft Certi
 
 ### GitHub Copilot CLI
 
-![김근희](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-geunhee-kim-thumbnail.png?v=2)
+![유저스틴](https://matdaaiga.kr/event-registration-landing-page/2026/10/ghcp-dev-days-daegu/images/speaker-justin-yoo-thumbnail.png?v=2)
 
-**김근희**  
-Senior · Microsoft Student Ambassadors
+**유저스틴**  
+수석 디벨로퍼 아드보캇 · Microsoft/GitHub
 
 터미널에서 Copilot을 활용해 일상적인 개발 작업을 더 빠르고 자연스럽게 수행하는 방법을 살펴봅니다.
 
-Microsoft Student Ambassador로 활동하며, 대구·경북 지역 AI 개발자 커뮤니티 ‘맞다AI가’를 운영하고 있습니다. AI 기술을 직접 활용해보는 것뿐만 아니라, 더 많은 사람들이 새로운 기술을 쉽게 접하고 실제로 써볼 수 있는 기회를 만드는 데 관심이 많습니다. 다양한 밋업과 워크샵을 기획해온 경험을 바탕으로, 참가자분들이 GitHub Copilot을 재미있고 실용적으로 경험할 수 있도록 함께하겠습니다.
+Microsoft와 GitHub에서 수석 디벨로퍼 아드보캇으로 활동하며 개발자 커뮤니티와 다양한 채널을 통해 소통하고 있습니다. 자나깨나 개발자 생산성 향상에 Azure, .NET, GitHub Copilot 등이 어떻게 도움이 될 수 있을까 고민합니다.
 
-[GitHub](https://github.com/g1nya2) · [LinkedIn](https://www.linkedin.com/in/geunhee-kim1227)
+[GitHub](https://github.com/justinyoo) · [LinkedIn](https://www.linkedin.com/in/justinyoo)
 
 ---
 
